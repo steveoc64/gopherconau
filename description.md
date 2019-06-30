@@ -130,7 +130,7 @@ func main() {
 widget demo that most toolkits provide as part of the documentation.
 
 Depending on audience reaction / questions ... jump to the Widget code for one or two examples
-so as to demonstrate clearly how a few lines of code affect.
+so as to demonstrate clearly how a few lines of code affect the app on the screen.
 
 # Fyne Examples
 
@@ -155,8 +155,6 @@ Demostration of using third part Go libraries integrated into your application w
 - https://github.com/peterhellberg/karta Voronoi diagrams for game world generation.
 - https://github.com/vdobler/chart  For building barchart and businessy type widgets
 
-
-
 # Games / Creativity Demo
 
 I wrote this one here in a weekend, mainly to work on optimising the raster image processing
@@ -176,6 +174,14 @@ load up "BASIC ROM Cartridges" written in a dialect of BASIC called PotatoBASIC.
 Here is a demo of my virtual Go machine running classic PONG written in "PotatoBASIC"
 
 ... all made easily possible thanks to Fyne.
+
+# A Larger Example
+
+.. time permitting, fire up my multiplayer turn based game, that happens to use a lot
+of Fyne widget elements.  
+
+Not a code dive, but an example of a large and complex app.
+
 
 # Wrapping it Up
 
