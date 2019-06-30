@@ -33,8 +33,8 @@ of design constraints.
 
 - WebApps have made development and distribution of code much simpler.
 - Web Development / HTML / CSS / Javascript itself ... 
-has introduced a whole new set of challenges for the developer :(
-- Using Go (GophereJS or WebASM) to write web front end code is very useable, but not a mainstream option.
+has introduced a whole new set of challenges for the developer.
+- Using Go (GopherJS or WebASM) to write WebAPP front ends is very useable, but not a mainstream option.
 - Interfacing your Go web front end code with readily available JS libraries is very painful. 
 - Resource consumption, design constraints, and portability outside of the browser are never
 going to be as good as native for the forseeable future.
