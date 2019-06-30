@@ -122,7 +122,6 @@ func main() {
 	w.ShowAndRun()
 }
 ```
-- Add image here of Hello World App in action
 ![HelloWorld](https://fyne.io/develop/img/hello-normal.png "Hello Fyne")
 
 # Fyne Demo
