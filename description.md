@@ -132,7 +132,7 @@ widget demo that most toolkits provide as part of the documentation.
 Depending on audience reaction / questions ... jump to the Widget code for one or two examples
 so as to demonstrate clearly how a few lines of code affect the app on the screen.
 
-![HelloWorld](https://github.com/steveoc/gopherconau/screeen1.png "Fyne Demo")
+![demo](https://github.com/steveoc/gopherconau/screen1.png "Fyne Demo")
 
 # Fyne Examples
 
