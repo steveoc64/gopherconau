@@ -234,6 +234,8 @@ http://tour.fyne.io
 
 The Book - written by Andy
 
+![book])https://images-fe.ssl-images-amazon.com/images/I/51L5t5NmSoL.jpg)
+
 https://www.amazon.com.au/Hands-GUI-Application-Development-cross-platform-ebook/dp/B07GYLYSCT
 
 Fyne Channel on gophers slack
