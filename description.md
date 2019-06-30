@@ -223,6 +223,7 @@ of Fyne widget elements.
 
 Not a code dive, but an example of a large and complex app.
 
+![game](screen2.png "Game Map")
 
 # Wrapping it Up
 
