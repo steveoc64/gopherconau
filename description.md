@@ -3,7 +3,7 @@
 - About me.  App developer since the early 80s. Full time Gopher for the last 5-6 years.
 - Fyne team - (More details needed here), but basically, we have a great dev team with a string of 
 stunning acheivements in the GUI framework space.
-- I picked up Fyne sometime in 2018, whilst looking for a GUI lib to base my latest game development on.
+- I picked up Fyne late in 2018, whilst looking for a GUI lib to base my latest game development on.
 - Officially contributor #2 in the fyne team :) 
 - I worked on the deeper internals of the fyne toolkit, including the channel based event management, 
 quite a bit of work on race condition management and locking.
@@ -20,7 +20,7 @@ Fun + No Constraints + Highest Performance = Creativity
 out of a machine.
 - Native Apps give the developer a blank canvas to write on, with the bare minimum 
 of design constraints.
-- Going Native means that if you can imagine it, you can code it.
+- Going Native means that _if you can imagine it, you can code it._
 
 # The Problem
 
