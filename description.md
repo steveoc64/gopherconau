@@ -182,11 +182,41 @@ Here is my weekend hack project with that -
 https://github.com/potato-arcade/p64
 
 Which runs a simple virtual computer with memory mapped graphics output, and allows you to
-load up "BASIC ROM Cartridges" written in a dialect of BASIC called PotatoBASIC.
+load up "BASIC ROM Cartridges" written in a dialect of BASIC called PotatoBASIC that
+does interrupt based goroutines.
 
 Here is a demo of my virtual Go machine running classic PONG written in "PotatoBASIC"
 
 ... all made easily possible thanks to Fyne.
+
+![potatopong](https://github.com/potato-arcade/p64/raw/master/pong.gif)
+
+```
+.INTR VSYNC
+CLEAR
+LET X = PEEK 1
+LET Y = PEEK 2
+LET DX = PEEK 3
+LET DY = PEEK 4
+X = X + DX
+Y = Y + DY
+PRINT
+
+100 GOSUB 1000
+110 GOTO 2000
+
+1000 IF X > 0 THEN RETURN
+1010 X = 1
+1020 DX = 1
+1030 RETURN
+
+2000 SET X,Y,1
+2010 POKE 1, X
+2020 POKE 2, Y
+2030 POKE 3, DX
+2040 POKE 4, DY
+END
+```
 
 # A Larger Example
 
