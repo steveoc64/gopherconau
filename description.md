@@ -123,6 +123,8 @@ func main() {
 }
 ```
 - Add image here of Hello World App in action
+![HelloWorld](https://fyne.io/develop/img/hello-normal.png "Hello Fyne")
+![HelloWorld](https://fyne.io/develop/img/hello-light.png "Hello Fyne")
 
 # Fyne Demo
 
@@ -132,6 +134,7 @@ widget demo that most toolkits provide as part of the documentation.
 Depending on audience reaction / questions ... jump to the Widget code for one or two examples
 so as to demonstrate clearly how a few lines of code affect the app on the screen.
 
+![HelloWorld](https://github.com/steveoc/gopherconau/screeen1.png "Fyne Demo")
 # Fyne Examples
 
 ... spend a minute or 2 running the Fyne Examples app, which has some more detailed examples
