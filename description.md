@@ -135,6 +135,7 @@ Depending on audience reaction / questions ... jump to the Widget code for one o
 so as to demonstrate clearly how a few lines of code affect the app on the screen.
 
 ![HelloWorld](https://github.com/steveoc/gopherconau/screeen1.png "Fyne Demo")
+
 # Fyne Examples
 
 ... spend a minute or 2 running the Fyne Examples app, which has some more detailed examples
@@ -148,6 +149,10 @@ Fyne.
 .. really quick dive / display of the code in examples, where to find it, and 
 encourage people to have a play with the code in there to learn the examples.
 
+![xkcd](https://github.com/fyne-io/examples/raw/develop/img/xkcd.png "XKCD Demo")
+![fractal](https://github.com/fyne-io/examples/raw/develop/img/fractal.png "Fractal")
+![solitaire](https://github.com/fyne-io/examples/raw/develop/img/solitaire.png "Solitaire")
+
 # Fyne Widgets using 3rd Party Libs
 
 - Fyne widgets can be built to wrap existing Go libraries that manipulate standard Go
@@ -157,6 +162,11 @@ Demostration of using third part Go libraries integrated into your application w
 - https://github.com/llgcode/draw2d 2D Drawing primitives.
 - https://github.com/peterhellberg/karta Voronoi diagrams for game world generation.
 - https://github.com/vdobler/chart  For building barchart and businessy type widgets
+
+
+![karta](https://camo.githubusercontent.com/a86a1e63850ada2f2896e77d5c463873589e6f09/687474703a2f2f6173736574732e63372e73652f736b697463682f6b617274615f70726f67726573735f3031322d32303134303832332d3135353934322e706e67)
+
+![charts](https://github.com/vdobler/chart/raw/master/example/bestof.png)
 
 # Games / Creativity Demo
 
