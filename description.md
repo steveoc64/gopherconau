@@ -124,7 +124,6 @@ func main() {
 ```
 - Add image here of Hello World App in action
 ![HelloWorld](https://fyne.io/develop/img/hello-normal.png "Hello Fyne")
-![HelloWorld](https://fyne.io/develop/img/hello-light.png "Hello Fyne")
 
 # Fyne Demo
 
